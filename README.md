@@ -1,0 +1,1 @@
+Fitness Tracker app-FitnessTrackerApp is a simple and intuitive application designed to help users monitor and improve their fitness journey. It allows users to track workouts, set goals, monitor daily activity, and visualize progress through interactive charts and summaries. The app aims to promote consistency, motivation, and a healthier lifestyle.
